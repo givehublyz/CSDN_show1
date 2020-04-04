@@ -2,6 +2,7 @@
 2.运行命令:node ./app.js命令运行项目，就可以了
 
 生成这个项目的一些步骤：
+
 前言：这个项目是react+webpack+express的一个项目。tips:如果你不知道怎么构建react多入口html项目，可以参考:https://juejin.im/post/5bc41ae0f265da0af161674e。
 
 1.react的项目在根目录运行:npm run build打包后生成index.html,login.html,index.bundle.js,login.bundle.js和一些字体、图片资源文件（为了演示方便，我把字体、图片等删除了，因而你可以会在控制台看到找不到字体、图片的报错)。

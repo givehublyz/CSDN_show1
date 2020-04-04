@@ -1,7 +1,7 @@
 1.先运行命令：npm install，把express的相关的包下载下来。
-2.运行命令:node ./app.js命令运行项目，就可以了
+2.运行命令:node ./app.js命令运行项目，就可以运行了。
 
-生成这个项目的一些步骤：
+如果你想知道这个项目是怎么生成的，我可以介绍一下生成这个项目的一些步骤：
 
 前言：这个项目是react+webpack+express的一个项目。tips:如果你不知道怎么构建react多入口html项目，可以参考:https://juejin.im/post/5bc41ae0f265da0af161674e。
 

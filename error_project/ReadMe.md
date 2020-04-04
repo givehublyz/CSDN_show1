@@ -1,0 +1,1 @@
+运行命令:node ./app.js之前请运行命令:npm install，先把一些包给安装下来
